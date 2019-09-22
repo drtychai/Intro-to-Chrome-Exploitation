@@ -1,0 +1,2 @@
+#!/bin/bash
+docker pull owasp2019chrome/class-env:latest
